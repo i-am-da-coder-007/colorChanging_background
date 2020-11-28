@@ -10,6 +10,7 @@ var b=255;
 function setup(){
 
   createCanvas(1200,400);
+  text("ColorChangingBackground",10,10)
 }
 
 
